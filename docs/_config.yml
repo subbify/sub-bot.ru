@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-title: "Title"
-description: "description"
-show_downloads: "false"
+title: "🤖 Subbify Bot"
+description: "Subbify Bot — это бот для телеграма, который позволяет продавать подписки на любой контент."
+show_downloads: false

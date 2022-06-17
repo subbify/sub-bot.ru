@@ -1,6 +1,8 @@
 ![python3](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
 ![sqlite](https://img.shields.io/badge/Sqlite-49A4DA?style=plastic&logo=sqlite&logoColor=white)
 
+ddd
+
 #### Установка и настройка
 >
 > Склонировать репозиторий и перейти в каталог 

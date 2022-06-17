@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: "Subbify Bot"
-description: "Subbify Bot — это бот для телеграма, который позволяет продавать подписки на любой контент."
+title: "sub-bot"
+description: "Бот для организации подписок"
 show_downloads: false
 plugins:
   - jekyll-remote-theme

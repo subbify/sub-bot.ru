@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: "sub-bot ✨"
-logo: "/assets/img/logo.jpg"
+logo: "/assets/img/logo.png"
 description: "Бот для организации платных подписок на каналы и чаты."
 show_downloads: true
 plugins:

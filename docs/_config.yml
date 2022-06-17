@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: "sub-bot ✨"
 description: "Бот для организации платных подписок на каналы и чаты."
-show_downloads: true
+show_downloads: false
 plugins:
   - jekyll-remote-theme
 
@@ -9,6 +9,7 @@ github:
   demo_bot_url: https://t.me/get_subs_bot
   demo_bot_url_text: "Посмотреть демонстрацию возможностей"
   demo_bot_url_small_text: "Откроется в телеграме"
+
   developer_url: https://t.me/bottify_channel
   developer_url_text: "Перейти в"
   developer_url_strong_text: "Канал"

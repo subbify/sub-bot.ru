@@ -5,11 +5,11 @@ show_downloads: false
 plugins:
   - jekyll-remote-theme
 
-github:
-  demo_bot_url: https://t.me/get_subs_bot
-  demo_bot_url_text: "Посмотреть демонстрацию возможностей"
-  demo_bot_url_small_text: "Откроется в телеграме"
+demo_bot_url: https://t.me/get_subs_bot
+demo_bot_url_text: "Посмотреть демонстрацию возможностей"
+demo_bot_url_small_text: "Откроется в телеграме"
 
+github:
   developer_url: https://t.me/bottify_channel
   developer_url_text: "Перейти в"
   developer_url_strong_text: "Канал"

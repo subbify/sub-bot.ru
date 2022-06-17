@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: "sub-bot"
-description: "Бот для организации подписок"
+title: "sub-bot ✨"
+description: "Бот для продажи подписок на контент"
 show_downloads: false
 plugins:
   - jekyll-remote-theme
